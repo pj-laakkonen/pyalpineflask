@@ -11,5 +11,3 @@ Build, Run & Push:
 + docker build -t laakkonen/pyalpineflask:latest .
 + docker run -it laakkonen/pyalpineflask:latest
 + docker push laakkonen/pyalpineflask:latest
-
-#
